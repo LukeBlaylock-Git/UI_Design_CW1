@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Luke Blaylock\\Documents\\GitHub\\UI_Design_CW1\\CW1_UI_Design\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6A76B8F-205F-A288-80E0-7265D08944FF}|Assembly-CSharp.csproj|C:\\Users\\Luke Blaylock\\Documents\\GitHub\\UI_Design_CW1\\CW1_UI_Design\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6A76B8F-205F-A288-80E0-7265D08944FF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6A76B8F-205F-A288-80E0-7265D08944FF}|Assembly-CSharp.csproj|c:\\users\\luke blaylock\\documents\\github\\ui_design_cw1\\cw1_ui_design\\assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6A76B8F-205F-A288-80E0-7265D08944FF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6A76B8F-205F-A288-80E0-7265D08944FF}|Assembly-CSharp.csproj|c:\\users\\luke blaylock\\documents\\github\\ui_design_cw1\\cw1_ui_design\\assets\\scripts\\ui scripts\\coin_script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6A76B8F-205F-A288-80E0-7265D08944FF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui scripts\\coin_script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CameraController.cs",
-              "DocumentMoniker": "C:\\Users\\Luke Blaylock\\Documents\\GitHub\\UI_Design_CW1\\CW1_UI_Design\\Assets\\Scripts\\CameraController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraController.cs",
-              "ToolTip": "C:\\Users\\Luke Blaylock\\Documents\\GitHub\\UI_Design_CW1\\CW1_UI_Design\\Assets\\Scripts\\CameraController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\CameraController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T06:26:28.11Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PlayerController.cs",
-              "DocumentMoniker": "C:\\Users\\Luke Blaylock\\Documents\\GitHub\\UI_Design_CW1\\CW1_UI_Design\\Assets\\Scripts\\PlayerController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
-              "ToolTip": "C:\\Users\\Luke Blaylock\\Documents\\GitHub\\UI_Design_CW1\\CW1_UI_Design\\Assets\\Scripts\\PlayerController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAhAAAAAAAAAA==",
+              "Title": "Coin_Script.cs",
+              "DocumentMoniker": "C:\\Users\\Luke Blaylock\\Documents\\GitHub\\UI_Design_CW1\\CW1_UI_Design\\Assets\\Scripts\\UI Scripts\\Coin_Script.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI Scripts\\Coin_Script.cs",
+              "ToolTip": "C:\\Users\\Luke Blaylock\\Documents\\GitHub\\UI_Design_CW1\\CW1_UI_Design\\Assets\\Scripts\\UI Scripts\\Coin_Script.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI Scripts\\Coin_Script.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T06:18:09.58Z",
+              "WhenOpened": "2025-11-13T07:09:45.336Z",
               "EditorCaption": ""
             }
           ]
