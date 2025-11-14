@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Luke Blaylock\\Documents\\GitHub\\UI_Design_CW1\\CW1_UI_Design\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6A76B8F-205F-A288-80E0-7265D08944FF}|Assembly-CSharp.csproj|c:\\users\\luke blaylock\\documents\\github\\ui_design_cw1\\cw1_ui_design\\assets\\scripts\\ui scripts\\coin_script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6A76B8F-205F-A288-80E0-7265D08944FF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui scripts\\coin_script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E6A76B8F-205F-A288-80E0-7265D08944FF}|Assembly-CSharp.csproj|c:\\users\\luke blaylock\\documents\\github\\ui_design_cw1\\cw1_ui_design\\assets\\scripts\\ui scripts\\coinscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6A76B8F-205F-A288-80E0-7265D08944FF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui scripts\\coinscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Luke Blaylock\\Documents\\GitHub\\UI_Design_CW1\\CW1_UI_Design\\Assets\\Scripts\\UI Scripts\\CoinCollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\UI Scripts\\CoinCollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Luke Blaylock\\Documents\\GitHub\\UI_Design_CW1\\CW1_UI_Design\\Assets\\Scripts\\PlayerController\\Coin_Script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PlayerController\\Coin_Script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Luke Blaylock\\Documents\\GitHub\\UI_Design_CW1\\CW1_UI_Design\\Assets\\Scripts\\UI Scripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\UI Scripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +31,48 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Coin_Script.cs",
-              "DocumentMoniker": "C:\\Users\\Luke Blaylock\\Documents\\GitHub\\UI_Design_CW1\\CW1_UI_Design\\Assets\\Scripts\\UI Scripts\\Coin_Script.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\UI Scripts\\Coin_Script.cs",
-              "ToolTip": "C:\\Users\\Luke Blaylock\\Documents\\GitHub\\UI_Design_CW1\\CW1_UI_Design\\Assets\\Scripts\\UI Scripts\\Coin_Script.cs",
-              "RelativeToolTip": "Assets\\Scripts\\UI Scripts\\Coin_Script.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Title": "CoinScript.cs",
+              "DocumentMoniker": "C:\\Users\\Luke Blaylock\\Documents\\GitHub\\UI_Design_CW1\\CW1_UI_Design\\Assets\\Scripts\\UI Scripts\\CoinScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI Scripts\\CoinScript.cs",
+              "ToolTip": "C:\\Users\\Luke Blaylock\\Documents\\GitHub\\UI_Design_CW1\\CW1_UI_Design\\Assets\\Scripts\\UI Scripts\\CoinScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI Scripts\\CoinScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T07:09:45.336Z",
+              "WhenOpened": "2025-11-13T19:48:58.275Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Coin_Script.cs",
+              "DocumentMoniker": "C:\\Users\\Luke Blaylock\\Documents\\GitHub\\UI_Design_CW1\\CW1_UI_Design\\Assets\\Scripts\\PlayerController\\Coin_Script.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController\\Coin_Script.cs",
+              "ToolTip": "C:\\Users\\Luke Blaylock\\Documents\\GitHub\\UI_Design_CW1\\CW1_UI_Design\\Assets\\Scripts\\PlayerController\\Coin_Script.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController\\Coin_Script.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T18:46:37.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CoinCollection.cs",
+              "DocumentMoniker": "C:\\Users\\Luke Blaylock\\Documents\\GitHub\\UI_Design_CW1\\CW1_UI_Design\\Assets\\Scripts\\UI Scripts\\CoinCollection.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI Scripts\\CoinCollection.cs",
+              "ToolTip": "C:\\Users\\Luke Blaylock\\Documents\\GitHub\\UI_Design_CW1\\CW1_UI_Design\\Assets\\Scripts\\UI Scripts\\CoinCollection.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI Scripts\\CoinCollection.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T18:45:07.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Luke Blaylock\\Documents\\GitHub\\UI_Design_CW1\\CW1_UI_Design\\Assets\\Scripts\\UI Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Luke Blaylock\\Documents\\GitHub\\UI_Design_CW1\\CW1_UI_Design\\Assets\\Scripts\\UI Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI Scripts\\GameManager.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T08:10:37.429Z"
             }
           ]
         }
