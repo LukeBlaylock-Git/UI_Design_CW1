@@ -5,7 +5,7 @@ using UnityEditor;
 public class GameManager : MonoBehaviour
 {
     public float RemainingTime = 300f;
-    private bool isGameRunning = true; //If the game is paused or we run out of time, we'll use this to prevent issues and actuall drain the timer.
+    private bool IsGameRunning = true; //If the game is paused or we run out of time, we'll use this to prevent issues and actuall drain the timer.
     public TMP_Text TimerText;
     public GameObject GameOverPanel;
     public PlayerController player; //setting a reference to the PlayerController
@@ -21,7 +21,7 @@ public class GameManager : MonoBehaviour
         int minutes = Mathf.FloorToInt(RemainingTime / 60);
         int seconds = Mathf.FloorToInt(RemainingTime % 60);
         TimerText.text = $"{minutes:00}:{seconds:00}"; //our actual display seperated into minutes and seconds, better visuals.
-        if (!isGameRunning)
+        if (!IsGameRunning)
             return;
 
         RemainingTime -= Time.deltaTime;
@@ -34,7 +34,7 @@ public class GameManager : MonoBehaviour
     }
     public void GameOver()
     {
-        isGameRunning = false;
+        IsGameRunning = false;
         Time.timeScale = 0f; //pauses the game
         Debug.Log("Game over function called.");
         Cursor.visible = true;
@@ -45,5 +45,16 @@ public class GameManager : MonoBehaviour
     public void Restart()
     {
         Time.timeScale = 1f; //unpauses the game
+        IsGameRunning = true;
+
+        GameOverPanel.SetActive(false);
+
+        Cursor.lockState = CursorLockMode.Locked;
+        Cursor.visible = false;
+
+        RemainingTime = 300f;
+
+        player.RespawnPlayer();
+        Debug.Log("Game Restart function called and executed");
     }
 }

@@ -15,7 +15,7 @@ public class PlayerController : MonoBehaviour
     private float downward_velocity;
 
     public Transform Respawn;
-
+    public GameManager GameManager;
 
     void Start()
     {
@@ -69,5 +69,12 @@ public class PlayerController : MonoBehaviour
         transform.position = Respawn.position;
         downward_velocity = 0f;
         character_controller.enabled = true;
+    }
+    private void OnControllerColliderHit(ControllerColliderHit hit)
+    {
+        if (hit.collider.CompareTag("Hazard")) //we are telling the Game Manager to call the game over function if we collide with an obj tagged with "Hazard"
+        {
+            GameManager.GameOver();
+        }
     }
 }
